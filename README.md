@@ -2,7 +2,8 @@
 
 > Predicting house prices using SVR
 
-Data before cleanup not available.
+## Disclaimer 
+Data for cleanup not available due to public data in them. Only anonimized data available.
 
 ## Get started
 
