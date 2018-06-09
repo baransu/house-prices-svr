@@ -1,4 +1,4 @@
-# house-prices-prediction-svm
+# house-prices-svr
 
 > Predicting house prices using sklearn SVR
 
