@@ -1,0 +1,6 @@
+data/budynek.csv
+data/grunt.csv
+data/transaction.csv
+data/lokal.csv
+.DS_Store
+.ipynb_checkpoints
